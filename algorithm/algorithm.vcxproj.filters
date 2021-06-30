@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="10828_stack.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1620.py">
+    <ClCompile Include="1991.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
