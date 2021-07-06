@@ -14,6 +14,6 @@ def findprintorder(numbers, findidx, numofnumber):
 
 for i in range(num):
     numofnumber, findidx = map(int,sys.stdin.readline().split())
-    numbers = list(map(int, sys.stdin.readline().split()))
+    numbers = list(map(21int, sys.stdin.readline().split()))
     findprintorder(numbers, findidx, numofnumber)
 
